@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Uma Sharma
-**A passionate Full Stack Developer || TypeScript|| NextJS|| MERN*
+**A passionate Full Stack Developer || TypeScript || NextJS || MERN *
 
 Email Me 👉 ✉️ **umasharmabtech@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
